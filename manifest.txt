@@ -1,0 +1,2 @@
+Main-Class: com.campusflow.Main
+Class-Path: mysql-connector-j-26.7.0/mysql-connector-j-26.7.0.jar

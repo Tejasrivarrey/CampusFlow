@@ -100,7 +100,7 @@ Before running the project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Naga-durga79/CampusFlow.git
+git clone https://github.com/Tejasrivarrey/CampusFlow.git
 ```
 
 Move into the project folder:
@@ -230,9 +230,9 @@ Benefits include:
 
 ## 👨‍💻 Author
 
-**Nalla Naga Durga**
+**Tejasrivarrey**
 
-- GitHub: https://github.com/Naga-durga79
+- GitHub: https://github.com/Tejasrivarrey
 
 ---
 
